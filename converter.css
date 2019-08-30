@@ -1,0 +1,50 @@
+html{
+    min-height: 100%;
+    
+}
+body{
+    height: 100%;
+    margin: 0;
+    text-align: center;
+    margin-top: 190px;
+    background-image: url( Top20PaymentCompanies.jpg);
+    
+}
+.fon{
+    width: 550px;
+    height: 350px;
+    background-color:brown;
+    border-radius: 15px;
+    margin: 0px 300px 135px 370px;
+}
+#result{
+    width:250px;
+    height: 40px;
+    position: absolute;
+    margin-top:60px;
+    background-color: white;
+    border-color: darkslateblue;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    font-size:25px;
+    
+}
+#input{
+    
+    width:250px;
+    height: 40px;
+    margin-top: 5px;
+    border-color: darkslateblue;
+    border-radius: 10px;
+    margin-bottom: 60px;
+    font-size:22px;
+    margin-top:10px;
+}
+.name{
+    width: 250px;
+    height: 40px;
+    border-color:darkred;
+    border-radius: 8px;
+    font-size: 15px;
+    margin:8px;
+}
